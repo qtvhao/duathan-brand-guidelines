@@ -1,6 +1,6 @@
 # Đũa Thần AI Icon Set
 
-Bộ **108 UI icons** được thiết kế theo phong cách tối giản, đồng nhất với nhận diện **Đũa Thần AI**.  
+Bộ **198 UI icons** được thiết kế theo phong cách tối giản, đồng nhất với nhận diện **Đũa Thần AI**.  
 Icon sử dụng nét bo tròn, hình học rõ ràng và bảng màu Navy – Teal – Gold để phù hợp với giao diện web, dashboard, ứng dụng AI và sản phẩm SaaS.
 
 ## Color palette
@@ -176,6 +176,122 @@ Icon sử dụng nét bo tròn, hình học rõ ràng và bảng màu Navy – T
 | 107 | Location Arrow / Navigation | Điều hướng / vị trí hiện tại |
 | 108 | Drag Handle / Grip | Kéo thả / sắp xếp thứ tự |
 
+
+### 109–126 · Email, contacts & identity
+
+| # | Icon | Typical use |
+|---:|---|---|
+| 109 | Archive | Lưu trữ |
+| 110 | Inbox | Hộp thư đến |
+| 111 | Outbox | Hộp thư đi |
+| 112 | Reply | Trả lời |
+| 113 | Reply All | Trả lời tất cả |
+| 114 | Forward | Chuyển tiếp |
+| 115 | At Sign | Email / mention |
+| 116 | Hash | Hashtag / channel |
+| 117 | Mention | Nhắc đến người dùng |
+| 118 | Contact | Danh bạ / liên hệ |
+| 119 | User Plus | Thêm người dùng |
+| 120 | User Minus | Xóa người dùng |
+| 121 | User Check | Xác nhận người dùng |
+| 122 | User X | Chặn / xóa người dùng |
+| 123 | User Circle | Hồ sơ cá nhân |
+| 124 | Badge | Huy hiệu / trạng thái |
+| 125 | Crown | Premium / admin |
+| 126 | Award | Thành tích |
+
+### 127–144 · Awards, navigation, places & education
+
+| # | Icon | Typical use |
+|---:|---|---|
+| 127 | Trophy | Giải thưởng |
+| 128 | Medal | Thành tích / xếp hạng |
+| 129 | Flag | Đánh dấu / báo cáo |
+| 130 | Pin | Ghim nội dung |
+| 131 | Pin Off | Bỏ ghim |
+| 132 | Compass | Khám phá / định hướng |
+| 133 | Navigation | Điều hướng |
+| 134 | Route | Tuyến đường |
+| 135 | Locate | Xác định vị trí |
+| 136 | Crosshair | Vị trí chính xác |
+| 137 | Building | Công ty / văn phòng |
+| 138 | Store | Cửa hàng |
+| 139 | Warehouse | Kho hàng |
+| 140 | Factory | Nhà máy |
+| 141 | Briefcase | Công việc |
+| 142 | Graduation Cap | Giáo dục |
+| 143 | Book | Sách / tài liệu |
+| 144 | Book Open | Đọc / tài liệu |
+
+### 145–162 · Writing, creative tools & layout
+
+| # | Icon | Typical use |
+|---:|---|---|
+| 145 | Library | Thư viện |
+| 146 | Newspaper | Tin tức |
+| 147 | Notebook | Ghi chú |
+| 148 | Sticky Note | Ghi chú nhanh |
+| 149 | Pen Tool | Viết / thiết kế |
+| 150 | Highlighter | Đánh dấu văn bản |
+| 151 | Eraser | Xóa |
+| 152 | Scissors | Cắt |
+| 153 | Ruler | Đo lường |
+| 154 | Palette | Màu sắc / giao diện |
+| 155 | Brush | Vẽ / chỉnh sửa |
+| 156 | Layers | Layers / lớp |
+| 157 | Layout | Bố cục |
+| 158 | Columns | Chia cột |
+| 159 | Rows | Chia hàng |
+| 160 | Sidebar | Thanh bên |
+| 161 | Panel Left | Panel bên trái |
+| 162 | Panel Right | Panel bên phải |
+
+### 163–180 · Typography, developer & hardware
+
+| # | Icon | Typical use |
+|---:|---|---|
+| 163 | Align Left | Căn trái |
+| 164 | Align Center | Căn giữa |
+| 165 | Align Right | Căn phải |
+| 166 | Align Justify | Căn đều |
+| 167 | Bold | In đậm |
+| 168 | Italic | In nghiêng |
+| 169 | Underline | Gạch chân |
+| 170 | Strikethrough | Gạch ngang |
+| 171 | Type | Văn bản / typography |
+| 172 | Heading | Tiêu đề |
+| 173 | Quote | Trích dẫn |
+| 174 | Code | Code / developer |
+| 175 | Terminal | Command line |
+| 176 | Database | Cơ sở dữ liệu |
+| 177 | Server | Máy chủ |
+| 178 | Hard Drive | Lưu trữ |
+| 179 | CPU | Bộ xử lý |
+| 180 | Monitor | Màn hình / desktop |
+
+### 181–198 · Devices, logistics & analytics
+
+| # | Icon | Typical use |
+|---:|---|---|
+| 181 | Laptop | Laptop |
+| 182 | Smartphone | Điện thoại |
+| 183 | Tablet | Máy tính bảng |
+| 184 | Watch | Đồng hồ thông minh |
+| 185 | Keyboard | Bàn phím |
+| 186 | Mouse | Chuột |
+| 187 | Headphones | Tai nghe |
+| 188 | Speaker | Loa |
+| 189 | Gamepad | Game / điều khiển |
+| 190 | Printer | In ấn |
+| 191 | Package | Gói hàng |
+| 192 | Truck | Giao hàng |
+| 193 | Box | Sản phẩm / kiện hàng |
+| 194 | Receipt | Hóa đơn |
+| 195 | Calculator | Tính toán |
+| 196 | Chart Bar | Biểu đồ cột |
+| 197 | Chart Line | Biểu đồ đường |
+| 198 | Pie Chart | Biểu đồ tròn |
+
 ## Recommended file naming
 
 Use lowercase kebab-case names:
@@ -200,7 +316,7 @@ For numbered source files:
 002-search.svg
 003-menu.svg
 ...
-108-drag-handle.svg
+198-pie-chart.svg
 ```
 
 ## Suggested folder structure
@@ -220,7 +336,12 @@ icons/
 │   ├── icons-037-054.png
 │   ├── icons-055-072.png
 │   ├── icons-073-090.png
-│   └── icons-091-108.png
+│   ├── icons-091-108.png
+│   ├── icons-109-126.png
+│   ├── icons-127-144.png
+│   ├── icons-145-162.png
+│   ├── icons-163-180.png
+│   └── icons-181-198.png
 └── README.md
 ```
 
@@ -279,4 +400,4 @@ This icon set is intended to provide a consistent visual language across Đũa T
 
 ---
 
-**Đũa Thần AI Icon Set — 108 icons**
+**Đũa Thần AI Icon Set — 198 icons**
